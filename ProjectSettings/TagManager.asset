@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Egg
+  - FxTemporaire
+  - LeftWall
+  - WhiteWall
+  - Light
+  - XSpinner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Egg
+  - Water
+  - UI
+  - TNT
+  - NoCollide
+  - Spinner
+  - DragObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1676292805
+    locked: 0
+  - name: Egg
+    uniqueID: 2658502923
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Overlay
+    uniqueID: 1967028425
+    locked: 0
+  - name: Fading
+    uniqueID: 2944714617
+    locked: 0
