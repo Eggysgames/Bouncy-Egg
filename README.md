@@ -14,4 +14,4 @@ The game is quite simple, get the egg in the basket using a physics bouncing egg
 The project makes use of dynamic shadows being cast, URP and basic physics. 
 
 Developed using Unity by Eggy's Games. It uses a simple coding style of splitting drag and droppable classes custom coded by me. 
-Feel free to use any of the code for your own projects.
+Feel free to use any of the code for your own projects. You will find most objects all link back to the Main.cs class. This handles everything and communicates with all objects.
