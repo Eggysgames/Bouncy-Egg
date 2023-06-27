@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.shaderlab linguist-vendored linguist-detectable=false
+*.shader linguist-vendored linguist-detectable=false
