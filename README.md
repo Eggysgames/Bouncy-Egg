@@ -13,15 +13,17 @@ This game is available to play here and many other places online >
 
 <b>Run your own version</b> - Upload the contents of Builds/WebGL to a working website/page/localhost
 
-=== Information === 
+The game is quite simple, get the egg in the basket using a physics bouncing egg. The game makes use of Unitys built in physics engine to bouce the egg off springs. It plays like a 2D physics game would expect with a few custom coded changes in some classes to compensate for issues. You can use this to make your own physics drop game.
 
-The full source code for Bouncy Egg released by Eggy's Games
+=== Developer Information === 
+
+Made for Unity version 2020.3.38f1 (Opening in older versions can cause unexpected errors)
+
+The full source code for Bouncy Egg released by Eggy's Games (Bradley Erkelens)
 
 You will find all the C# coding under assets/code
 
 You will find all available sprites under assets/sprites
-
-The game is quite simple, get the egg in the basket using a physics bouncing egg.
 
 The project makes use of dynamic shadows being cast, URP and basic physics. 
 
